@@ -1,6 +1,6 @@
 ### Welcome to my profile!👋
 
-👋Hi! I am Leandro, a curious and adaptable Junior Software Developer based on Leicester, UK, really interested on robotic and programming. My interest came from when I was a child. I am eager to learn. Basic knowledge on many programming languages. Open to new opportunities where I can use my skills and learn new ones.
+👋Hi! I am Leandro, a curious and adaptable Junior Developer based on Leicester, UK, really interested on robotic and programming. My interest came from when I was a child. I am eager to learn. Basic knowledge on many programming languages. Open to new opportunities where I can use my skills and learn new ones.
 
 ### Technical Skills
 
